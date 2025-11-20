@@ -2,9 +2,9 @@
 # Nefes Alıp Verme Uygulaması 🧘‍♂️
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-![relaxy 1](https://github.com/user-attachments/assets/35f8ffff-8ec9-4a6f-9e75-9cbb6d6dfc5d)
-![relaxy 2](https://github.com/user-attachments/assets/39bbdeb0-aa3b-405b-a04c-c2d11b7abe3a)
-![relaxy 3](https://github.com/user-attachments/assets/20833069-519e-4a31-9f61-9f3d9a58f0c1)
+![relaxy 1](https://github.com/user-attachments/assets/6f74e090-294a-4ed7-9b6c-b0e9fa48738a)
+![relaxy 2](https://github.com/user-attachments/assets/4c1ed6df-4b2b-4800-941a-b678049372ef)
+![relaxy 3](https://github.com/user-attachments/assets/a294907f-bb3a-4257-99c1-37102b285bc5)
 </div>
 
 **Kısa Açıklama:**  
