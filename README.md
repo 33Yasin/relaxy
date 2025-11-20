@@ -1,11 +1,5 @@
 Nefes Alıp Verme Uygulaması 🧘‍♂️
-
-![relaxy 1](https://github.com/user-attachments/assets/48492f2b-6bc9-4c92-b421-61a43a49a8b7)
-
-![relaxy 2](https://github.com/user-attachments/assets/b54353e5-f42e-4e17-9baf-f2361dc9d06a)
-
-![relaxy 3](https://github.com/user-attachments/assets/add7510c-551b-46ed-b558-566a683db7f2)
-
+<div style="display: flex; gap: 10px; justify-content: center;"> <img src="assets/images/relaxy1.png" alt="relaxy 1" width="200"/> <img src="assets/images/relaxy2.png" alt="relaxy 2" width="200"/> <img src="assets/images/relaxy3.png" alt="relaxy 3" width="200"/> </div>
 
 Kısa Açıklama:
 Derin nefes egzersizleri ile stres azaltmayı, odaklanmayı, enerji artırmayı ve uyku kalitesini destekleyen mobil uygulama.
@@ -22,9 +16,7 @@ Diyafram Nefesi (Enerji)
 
 Alternatif Burun Deliği Nefesi (Odak)
 
-Her egzersiz için özel animasyonlar:
-
-Çiçek, kar, su damlası ve eğik animasyonlar
+Her egzersiz için özel animasyonlar: Çiçek, kar, su damlası ve eğik animasyonlar
 
 Nefes fazlarını gösteren görsel geri bildirim
 
@@ -69,11 +61,11 @@ Egzersiz sırasında nefes alma, tutma ve verme fazları görsel olarak gösteri
 Egzersizi durdurmak için Bitir butonuna basın.
 
 Dosya Yapısı (Önemli)
-/components/animations  -> Egzersiz animasyonları
-/constants/breathingSettings.js  -> Egzersiz süreleri ve ayarlar
-/screens/HomeScreen.js  -> Ana ekran
-/screens/ExerciseScreen.js  -> Egzersiz ekranı
-/assets/sounds  -> Ses dosyaları
+/components/animations        -> Egzersiz animasyonları
+/constants/breathingSettings.js -> Egzersiz süreleri ve ayarlar
+/screens/HomeScreen.js        -> Ana ekran
+/screens/ExerciseScreen.js    -> Egzersiz ekranı
+/assets/sounds                -> Ses dosyaları
 
 Teknolojiler
 
