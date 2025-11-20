@@ -1,100 +1,111 @@
-Nefes Alıp Verme Uygulaması 🧘‍♂️
-<div style="display: flex; gap: 10px; justify-content: center;"> ![relaxy 1](https://github.com/user-attachments/assets/860894e3-c88c-423b-8bc3-68c0ef29ed05) ![relaxy 2](https://github.com/user-attachments/assets/81d86c13-9ebb-4896-8adc-ce41caf76dbd) ![relaxy 3](https://github.com/user-attachments/assets/bb0a42c7-7586-4db9-b9c5-e626133161ed) </div>
+````markdown
+# Nefes Alıp Verme Uygulaması 🧘‍♂️
 
-Kısa Açıklama:
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/860894e3-c88c-423b-8bc3-68c0ef29ed05" alt="relaxy 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/81d86c13-9ebb-4896-8adc-ce41caf76dbd" alt="relaxy 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/bb0a42c7-7586-4db9-b9c5-e626133161ed" alt="relaxy 3" width="200"/>
+</div>
+
+**Kısa Açıklama:**  
 Derin nefes egzersizleri ile stres azaltmayı, odaklanmayı, enerji artırmayı ve uyku kalitesini destekleyen mobil uygulama.
 
-Özellikler
+---
 
-Farklı nefes egzersizi türleri:
+## Özellikler
 
-Box Breathing (Anksiyete)
+- Farklı nefes egzersizi türleri:
+  - **Box Breathing (Anksiyete)**
+  - **4-7-8 Nefesi (Uyku)**
+  - **Diyafram Nefesi (Enerji)**
+  - **Alternatif Burun Deliği Nefesi (Odak)**
+- Her egzersiz için özel animasyonlar: Çiçek, kar, su damlası ve eğik animasyonlar
+- Nefes fazlarını gösteren görsel geri bildirim
+- Sesli rehber veya sessiz seçenek
+- Başlat / Durdur kontrolleri
+- Detaylı açıklama ve ritim bilgileri
 
-4-7-8 Nefesi (Uyku)
+---
 
-Diyafram Nefesi (Enerji)
+## Kurulum
 
-Alternatif Burun Deliği Nefesi (Odak)
+1. Projeyi klonlayın:
 
-Her egzersiz için özel animasyonlar: Çiçek, kar, su damlası ve eğik animasyonlar
-
-Nefes fazlarını gösteren görsel geri bildirim
-
-Sesli rehber veya sessiz seçenek
-
-Başlat / Durdur kontrolleri
-
-Detaylı açıklama ve ritim bilgileri
-
-Kurulum
-
-Projeyi klonlayın:
-
+```bash
 git clone https://github.com/kullaniciadi/proje-adi.git
 cd proje-adi
+````
 
+2. Bağımlılıkları yükleyin:
 
-Bağımlılıkları yükleyin:
-
+```bash
 npm install
 # veya
 yarn install
+```
 
+3. Expo Go ile çalıştırın:
 
-Expo Go ile çalıştırın:
-
+```bash
 npx expo start
-
+```
 
 Ardından QR kodu Expo Go uygulaması ile tarayarak mobil cihazınızda uygulamayı görüntüleyebilirsiniz.
 
-Kullanım
+---
 
-Ana ekranda egzersiz kartlarından birini seçin.
+## Kullanım
 
-Egzersizi başlatmak için Başla butonuna basın.
+* Ana ekranda egzersiz kartlarından birini seçin.
+* Egzersizi başlatmak için **Başla** butonuna basın.
+* Egzersiz sırasında nefes alma, tutma ve verme fazları görsel olarak gösterilir.
+* İstersen egzersize ses ekleyebilirsiniz (loop veya sessiz seçenekler mevcut).
+* Egzersizi durdurmak için **Bitir** butonuna basın.
 
-Egzersiz sırasında nefes alma, tutma ve verme fazları görsel olarak gösterilir.
+---
 
-İstersen egzersize ses ekleyebilirsiniz (loop veya sessiz seçenekler mevcut).
+## Dosya Yapısı (Önemli)
 
-Egzersizi durdurmak için Bitir butonuna basın.
-
-Dosya Yapısı (Önemli)
+```
 /components/animations        -> Egzersiz animasyonları
 /constants/breathingSettings.js -> Egzersiz süreleri ve ayarlar
 /screens/HomeScreen.js        -> Ana ekran
 /screens/ExerciseScreen.js    -> Egzersiz ekranı
 /assets/sounds                -> Ses dosyaları
+```
 
-Teknolojiler
+---
 
-React Native
+## Teknolojiler
 
-Expo
+* React Native
+* Expo
+* Expo AV (Ses oynatma)
+* React Native Safe Area Context
+* Expo Blur (Blur efekti)
+* @expo/vector-icons (İkonlar)
 
-Expo AV (Ses oynatma)
+---
 
-React Native Safe Area Context
-
-Expo Blur (Blur efekti)
-
-@expo/vector-icons (İkonlar)
-
-Katkıda Bulunma
+## Katkıda Bulunma
 
 Projeye katkı yapmak istersen:
 
-Fork yap
+1. Fork yap
+2. Branch oluştur: `git checkout -b feature/ozellik`
+3. Değişiklikleri commit et: `git commit -m 'Yeni özellik ekledim'`
+4. Push yap: `git push origin feature/ozellik`
+5. Pull Request oluştur
 
-Branch oluştur: git checkout -b feature/ozellik
+---
 
-Değişiklikleri commit et: git commit -m 'Yeni özellik ekledim'
-
-Push yap: git push origin feature/ozellik
-
-Pull Request oluştur
-
-Lisans
+## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
+
+```
+
+---
+
+İstersen ben bunu bir adım ileriye taşıyıp **daha profesyonel, güzel başlık ve renkli simgelerle süslü bir GitHub README** hâline de getirebilirim. Bunu yapayım mı?
+```
