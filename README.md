@@ -1,4 +1,3 @@
-````markdown
 # Nefes Alıp Verme Uygulaması 🧘‍♂️
 
 <div style="display: flex; gap: 10px; justify-content: center;">
