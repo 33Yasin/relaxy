@@ -1,9 +1,11 @@
 ````markdown
 # Nefes Alıp Verme Uygulaması 🧘‍♂️
 
-![relaxy 1](https://github.com/user-attachments/assets/6f74e090-294a-4ed7-9b6c-b0e9fa48738a)
-![relaxy 2](https://github.com/user-attachments/assets/4c1ed6df-4b2b-4800-941a-b678049372ef)
-![relaxy 3](https://github.com/user-attachments/assets/a294907f-bb3a-4257-99c1-37102b285bc5)
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://github.com/user-attachments/assets/6f74e090-294a-4ed7-9b6c-b0e9fa48738a" alt="relaxy 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/4c1ed6df-4b2b-4800-941a-b678049372ef" alt="relaxy 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a294907f-bb3a-4257-99c1-37102b285bc5" alt="relaxy 3" width="200"/>
+</div>
 
 **Kısa Açıklama:**  
 Derin nefes egzersizleri ile stres azaltmayı, odaklanmayı, enerji artırmayı ve uyku kalitesini destekleyen mobil uygulama.
@@ -103,7 +105,4 @@ Bu proje MIT Lisansı ile lisanslanmıştır.
 
 ```
 
----
-
-İstersen ben bunu bir adım ileriye taşıyıp **daha profesyonel, güzel başlık ve renkli simgelerle süslü bir GitHub README** hâline de getirebilirim. Bunu yapayım mı?
 ```
