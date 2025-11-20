@@ -8,7 +8,8 @@
   <img src="https://github.com/user-attachments/assets/3ab69d4d-a8c7-4e62-a292-51290bcc825c" alt="relaxy 5" width="150"/>
 </div>
 
-**Kısa Açıklama:**  
+
+ 
 Derin nefes egzersizleri ile stres azaltmayı, odaklanmayı, enerji artırmayı ve uyku kalitesini destekleyen mobil uygulama.
 
 ---
