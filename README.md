@@ -1,27 +1,11 @@
 # Nefes Alıp Verme Uygulaması 🧘‍♂️
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/6f74e090-294a-4ed7-9b6c-b0e9fa48738a" alt="relaxy 1" width="200"/>
-  <img src="https://github.com/user-attachments/assets/4c1ed6df-4b2b-4800-941a-b678049372ef" alt="relaxy 2" width="200"/>
-  <img src="https://github.com/user-attachments/assets/a294907f-bb3a-4257-99c1-37102b285bc5" alt="relaxy 3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/fd8639b1-4cdd-4852-a7d2-fc0fa76d1c2c" alt="relaxy 4" width="200"/>
-  <img src="https://github.com/user-attachments/assets/3ab69d4d-a8c7-4e62-a292-51290bcc825c" alt="relaxy 5" width="200"/>
-</div>
-
 <div style="display: flex; gap: 5px; overflow-x: auto; padding: 10px;">
   <img src="https://github.com/user-attachments/assets/6f74e090-294a-4ed7-9b6c-b0e9fa48738a" alt="relaxy 1" width="150"/>
   <img src="https://github.com/user-attachments/assets/4c1ed6df-4b2b-4800-941a-b678049372ef" alt="relaxy 2" width="150"/>
   <img src="https://github.com/user-attachments/assets/a294907f-bb3a-4257-99c1-37102b285bc5" alt="relaxy 3" width="150"/>
   <img src="https://github.com/user-attachments/assets/fd8639b1-4cdd-4852-a7d2-fc0fa76d1c2c" alt="relaxy 4" width="150"/>
   <img src="https://github.com/user-attachments/assets/3ab69d4d-a8c7-4e62-a292-51290bcc825c" alt="relaxy 5" width="150"/>
-</div>
-
-
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/4c1ed6df-4b2b-4800-941a-b678049372ef" alt="relaxy 2" width="200"/>
-  <img src="https://github.com/user-attachments/assets/a294907f-bb3a-4257-99c1-37102b285bc5" alt="relaxy 3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/fd8639b1-4cdd-4852-a7d2-fc0fa76d1c2c" alt="relaxy 4" width="200"/>
-  <img src="https://github.com/user-attachments/assets/3ab69d4d-a8c7-4e62-a292-51290bcc825c" alt="relaxy 5" width="200"/>
 </div>
 
 **Kısa Açıklama:**  
