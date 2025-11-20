@@ -1,5 +1,5 @@
 Nefes Alıp Verme Uygulaması 🧘‍♂️
-<div style="display: flex; gap: 10px; justify-content: center;"> <img src="assets/images/relaxy1.png" alt="relaxy 1" width="200"/> <img src="assets/images/relaxy2.png" alt="relaxy 2" width="200"/> <img src="assets/images/relaxy3.png" alt="relaxy 3" width="200"/> </div>
+<div style="display: flex; gap: 10px; justify-content: center;"> ![relaxy 1](https://github.com/user-attachments/assets/860894e3-c88c-423b-8bc3-68c0ef29ed05) ![relaxy 2](https://github.com/user-attachments/assets/81d86c13-9ebb-4896-8adc-ce41caf76dbd) ![relaxy 3](https://github.com/user-attachments/assets/bb0a42c7-7586-4db9-b9c5-e626133161ed) </div>
 
 Kısa Açıklama:
 Derin nefes egzersizleri ile stres azaltmayı, odaklanmayı, enerji artırmayı ve uyku kalitesini destekleyen mobil uygulama.
